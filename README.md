@@ -1,6 +1,6 @@
 # 🌟 Centro de Aprendizaje Genetifics 🌟
 
-Bienvenido al Centro de Aprendizaje Genetifics, un repositorio centrado en la comunidad dedicado a fomentar el aprendizaje y desarrollo en Machine Learning, Deep Learning e Inteligencia Artificial 🚀. Este proyecto, creado por el influencer de Instagram [@Genetifics](https://www.instagram.com/genetifics/), tiene como objetivo proporcionar recursos de alta calidad, accesibles y gratuitos para ayudar a todos a adentrarse más en el fascinante mundo de la IA.
+Bienvenido al Centro de Aprendizaje Genetifics, un repositorio centrado en la comunidad dedicado a fomentar el aprendizaje y desarrollo en Inteligencia Artificial 🚀. Este proyecto, creado por mí, [@Genetifics](https://www.instagram.com/genetifics/), tiene como objetivo proporcionar recursos de alta calidad, accesibles y gratuitos para ayudar a todos a adentrarse más en el fascinante mundo de la IA.
 
 ## 📚 Contenido
 
