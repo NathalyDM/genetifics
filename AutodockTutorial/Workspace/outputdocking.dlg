@@ -1,0 +1,65 @@
+          AutoDock 4.2 Release 4.2.6   
+         (C) 1989-2012 The Scripps Research Institute
+        AutoDock comes with ABSOLUTELY NO WARRANTY.
+        AutoDock is free software, and you are welcome
+        to redistribute it under certain conditions;
+        for details type 'autodock4 -C'
+
+                     main.cc  $Revision: 1.213 $
+
+                   Compiled on Jul 18 2014 at 15:34:58
+
+
+This file was created at:			3:39 31" p.m., 03/31/2024
+                   on host:		"DESKTOP-J23CUEF"
+Current Working Directory = "E:\AutodockTutorial\Workspace"
+
+      ________________________________________________________________
+
+                   SETTING UP DEFAULT PARAMETER LIBRARY
+      ________________________________________________________________
+
+
+Random number generator was seeded with values 10428, 1711917571.
+Docking parameter file (DPF) used for this docking:		E:/AutodockTutorial/Workspace/outputdocking.dpf
+DPF> autodock_parameter_version 4.2       # used by autodock to validate parameter set
+
+	Autodock parameter version 4.2.
+DPF> outlev 1                             # diagnostic output level
+
+Output Level = 1  ADT-COMPATIBLE OUTPUT DURING DOCKING.
+DPF> intelec                              # calculate internal electrostatics
+
+Electrostatic energies will be calculated for all non-bonds between moving atoms.
+DPF> seed pid time                        # seeds for random generator
+
+Random number generator was seeded with values 10428, 1711917571.
+DPF> ligand_types A C F NA Cl OA N HD     # atoms types in ligand
+
+DPF> fld 7p19.maps.fld                    # grid_data_file
+
+Opening Grid Map Dimensions file:		7p19.maps.fld
+Grid Point Spacing =				0.500 Angstroms
+
+Even Number of User-specified Grid Points =	40 x-points
+						40 y-points
+						40 z-points
+
+Coordinates of Central Grid Point of Maps =	(-17.502, 45.243, -69.126)
+Macromolecule file used to create Grid Maps =	7p19.pdbqt
+Grid Parameter file used to create Grid Maps =	E:/AutodockTutorial/Workspace/7p19.gpf
+Minimum coordinates in grid = (-27.502, 35.243, -79.126)
+Maximum coordinates in grid = (-7.502, 55.243, -59.126)
+
+DPF> map 7p19.A.map                       # atom-specific affinity map
+
+DPF> map 7p19.C.map                       # atom-specific affinity map
+
+DPF> map 7p19.F.map                       # atom-specific affinity map
+
+Real= 0.28,  CPU= 0.25,  System= 0.01
+E:/AutodockTutorial/Workspace/autodock4.exe: I'm sorry; I can't find or open "7p19.F.map"
+E:/AutodockTutorial/Workspace/autodock4.exe: FATAL ERROR: E:/AutodockTutorial/Workspace/autodock4.exe: I'm sorry; I can't find or open "7p19.F.map"
+
+E:/AutodockTutorial/Workspace/autodock4.exe: Unsuccessful Completion.
+

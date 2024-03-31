@@ -1,0 +1,44 @@
+# AVS field file
+#
+# AutoDock Atomic Affinity and Electrostatic Grids
+#
+# Created by E:/AutodockTutorial/Workspace/autogrid4.exe.
+#
+#SPACING 0.500
+#NELEMENTS 40 40 40
+#CENTER -17.502 45.243 -69.126
+#MACROMOLECULE 7p19.pdbqt
+#GRID_PARAMETER_FILE E:/AutodockTutorial/Workspace/7p19.gpf
+#
+ndim=3			# number of dimensions in the field
+dim1=41			# number of x-elements
+dim2=41			# number of y-elements
+dim3=41			# number of z-elements
+nspace=3		# number of physical coordinates per point
+veclen=9		# number of affinity values at each point
+data=float		# data type (byte, integer, float, double)
+field=uniform		# field type (uniform, rectilinear, irregular)
+coord 1 file=7p19.maps.xyz filetype=ascii offset=0
+coord 2 file=7p19.maps.xyz filetype=ascii offset=2
+coord 3 file=7p19.maps.xyz filetype=ascii offset=4
+label=A-affinity	# component label for variable 1
+label=C-affinity	# component label for variable 2
+label=HD-affinity	# component label for variable 3
+label=N-affinity	# component label for variable 4
+label=NA-affinity	# component label for variable 5
+label=OA-affinity	# component label for variable 6
+label=SA-affinity	# component label for variable 7
+label=Electrostatics	# component label for variable 7
+label=Desolvation	# component label for variable 8
+#
+# location of affinity grid files and how to read them
+#
+variable 1 file=7p19.A.map filetype=ascii skip=6
+variable 2 file=7p19.C.map filetype=ascii skip=6
+variable 3 file=7p19.HD.map filetype=ascii skip=6
+variable 4 file=7p19.N.map filetype=ascii skip=6
+variable 5 file=7p19.NA.map filetype=ascii skip=6
+variable 6 file=7p19.OA.map filetype=ascii skip=6
+variable 7 file=7p19.SA.map filetype=ascii skip=6
+variable 8 file=7p19.e.map filetype=ascii skip=6
+variable 9 file=7p19.d.map filetype=ascii skip=6
