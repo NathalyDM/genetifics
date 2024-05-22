@@ -7,6 +7,7 @@ Bienvenido al Centro de Aprendizaje Genetifics, un repositorio centrado en la co
 1. **Tutoriales para el procesamiento de imágenes**
    - [Clasificación multiple de imágenes](<https://github.com/NathalyDM/genetifics/edit/main/README.md#:~:text=ImageMultipleClassificationTutorial>)
    - [Segmentación de imágenes](<https://github.com/NathalyDM/genetifics/edit/main/README.md#:~:text=SegmentationTutorial>)
+   - [Clasificacion de Imageenes de Animales (multiclases de colores)](<https://github.com/NathalyDM/genetifics/blob/main/ImageProcessingTutorials/Tutorial_de_Clasificaci%C3%B3n_de_Im%C3%A1genes_de_Animales.ipynb>)
 2. **Tutoriales para el procesamiento de señales**
    - [Análisis de señales EEG](<https://github.com/NathalyDM/genetifics/blob/main/EEGAnalisis/Cerebellar_Seizures_Tutorial.ipynb>)
 3. **Farmacocinetica**
