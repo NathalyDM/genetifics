@@ -12,6 +12,9 @@ Bienvenido al Centro de Aprendizaje Genetifics, un repositorio centrado en la co
    - [Análisis de señales EEG](<https://github.com/NathalyDM/genetifics/blob/main/EEGAnalisis/Cerebellar_Seizures_Tutorial.ipynb>)
 3. **Farmacocinetica**
    - [Modelado de Medicamentos en el Cuerpo](<https://github.com/NathalyDM/genetifics/blob/main/Farmacocinetica/ModeloMedicamentos.M>)
+4. **Graficas en Bioinformática**
+   - [Modelado de Medicamentos en el Cuerpo](<https://github.com/NathalyDM/genetifics/blob/main/GrafricasMasUsadasenBio.R>)
+     
 ## 💡 Cómo usar
 
 1. **Clonar el Repositorio**
