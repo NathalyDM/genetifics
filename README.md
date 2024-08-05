@@ -13,7 +13,7 @@ Bienvenido al Centro de Aprendizaje Genetifics, un repositorio centrado en la co
 3. **Farmacocinetica**
    - [Modelado de Medicamentos en el Cuerpo](<https://github.com/NathalyDM/genetifics/blob/main/Farmacocinetica/ModeloMedicamentos.M>)
 4. **Graficas en Bioinformática**
-   - [Modelado de Medicamentos en el Cuerpo](<https://github.com/NathalyDM/genetifics/blob/main/GrafricasMasUsadasenBio.R>)
+   - [Volcano Plot, Heatmaps, Boxplots, y PCAs ;)](<https://github.com/NathalyDM/genetifics/blob/main/GrafricasMasUsadasenBio.R>)
      
 ## 💡 Cómo usar
 
