@@ -14,6 +14,8 @@ Bienvenido al Centro de Aprendizaje Genetifics, un repositorio centrado en la co
    - [Modelado de Medicamentos en el Cuerpo](<https://github.com/NathalyDM/genetifics/blob/main/Farmacocinetica/ModeloMedicamentos.M>)
 4. **Graficas en Bioinformática**
    - [Volcano Plot, Heatmaps, Boxplots, y PCAs ;)](<https://github.com/NathalyDM/genetifics/blob/main/GrafricasMasUsadasenBio.R>)
+5. **PCA**
+   - [PCAs usando el dataset Iris)](<https://github.com/NathalyDM/genetifics/blob/main/Tutorial_PCA.ipynb>)
      
 ## 💡 Cómo usar
 
